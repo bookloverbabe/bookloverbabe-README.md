@@ -8,9 +8,9 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Foodshare**                | - A food waste app that connects food banks to food outlets with surplus food,developed using an Agile methodology with short sprints which were planned in a  Kanban board. - Features: authentication login using JWT tokens, filter options, dynamic user interface, login options based on user type, upload food donations, user can view their personal details and all donations, TDD, MVC | MERN stack (MongoDB, Express, React, Node), Jest, Cypress|
-| **Acebook** | - Created a social media site based on Facebook in an Agile way, by pair programming to communicate with each other directly. - Features: authentication login using JWT tokens, database, user can load photo, MVC, TDD| MERN stack( MongoDB, Express, React, Node), Jest, Cypress|
-| **Bank tech test challenge** | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance. Features: TDD, OOP, SOLID principles, error handling, user input| Ruby, RSpec|
+| [**Foodshare**](  https://github.com/maddc0de/foodshare)| A food waste app that connects food banks to food outlets with surplus food,developed using an Agile methodology with short sprints which were planned in a  Kanban board. | MERN stack (MongoDB, Express, React, Node), Jest, Cypress|
+| [**Acebook**](https://github.com/bookloverbabe/acebook-mern-fire_team) | - Created a social media site based on Facebook in an Agile way, by pair programming to communicate with each other directly| MERN stack( MongoDB, Express, React, Node), Jest, Cypress|
+| [**Bank tech test challenge**](https://github.com/bookloverbabe/Bank-test-tech-challenge) | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance.| Ruby, RSpec|
 
 ## Work Experience
 
