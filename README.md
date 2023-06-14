@@ -1,25 +1,17 @@
 ## Solmaz Purser
 
 I am a motivated and determined software developer who has recently graduated from Makers Academy. Prior to Makers I worked as an editor for six years across a range of subject areas where I honed my attention to detail, ability work to a deadline and manage complex projects. I decided to make the change into tech as there is always something to learn and I enjoy challenging myself.
+
 I have experience working with the programming languages Ruby, JavaScript, Python and C. I have familiar with the fundamentals of software development including object-oriented languages, test-driven development, full stack development and GitHub. I am also completing edX’s CS50’s introduction to computer science.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Foodshare**                | A food waste app that connects food banks to food outlets with surplus food,     developed using an Agile methodology with short sprints which were planned in a  Kanban board
-Features: authentication login using JWT tokens, filter options, dynamic user interface, login options based on user type, upload food donations, user can view their personal details and all donations, TDD, MVC
- | MERN stack (MongoDB, Express, React, Node)
-Jest
-Cypress|
-| **Acebook** | Created a social media site based on Facebook in an Agile way, by pair programming to communicate with each other directly
-Features: authentication login using JWT tokens, database, user can load photo, MVC, TDD
- | MERN stack( MongoDB, Express, React, Node)
-Jest
-Cypress|
-| **Bank tech test challenge** | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance
-Features:  TDD, OOP, SOLID principles, error handling, user input| Ruby
-RSpec|
+| **Foodshare**                | A food waste app that connects food banks to food outlets with surplus food,developed using an Agile methodology with short sprints which were planned in a  Kanban board. Features: authentication login using JWT tokens, filter options, dynamic user interface, login options based on user type, upload food donations, user can view their personal details and all donations, TDD, MVC | MERN stack (MongoDB, Express, React, Node), Jest, Cypress|
+| **Acebook** | Created a social media site based on Facebook in an Agile way, by pair programming to communicate with each other directly.
+Features: authentication login using JWT tokens, database, user can load photo, MVC, TDD| MERN stack( MongoDB, Express, React, Node), Jest, Cypress|
+| **Bank tech test challenge** | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance. Features: TDD, OOP, SOLID principles, error handling, user input| Ruby, RSpec|
 
 ## Work Experience
 
