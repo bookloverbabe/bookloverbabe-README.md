@@ -1,69 +1,90 @@
-## Your Name
+## Solmaz Purser
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a motivated and determined software developer who has recently graduated from Makers Academy. Prior to Makers I worked as an editor for six years across a range of subject areas where I honed my attention to detail, ability work to a deadline and manage complex projects. I decided to make the change into tech as there is always something to learn and I enjoy challenging myself.
+I have experience working with the programming languages Ruby, JavaScript, Python and C. I have familiar with the fundamentals of software development including object-oriented languages, test-driven development, full stack development and GitHub. I am also completing edX’s CS50’s introduction to computer science.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Foodshare**                | A food waste app that connects food banks to food outlets with surplus food,     developed using an Agile methodology with short sprints which were planned in a  Kanban board
+Features: authentication login using JWT tokens, filter options, dynamic user interface, login options based on user type, upload food donations, user can view their personal details and all donations, TDD, MVC
+ | MERN stack (MongoDB, Express, React, Node)
+Jest
+Cypress|
+| **Acebook** | Created a social media site based on Facebook in an Agile way, by pair programming to communicate with each other directly
+Features: authentication login using JWT tokens, database, user can load photo, MVC, TDD
+ | MERN stack( MongoDB, Express, React, Node)
+Jest
+Cypress|
+| **Bank tech test challenge** | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance
+Features:  TDD, OOP, SOLID principles, error handling, user input| Ruby
+RSpec|
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**PeopleCert (formerly AXELOS)** (June 2022 to December 2022 )  
+_Project editor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Demonstrated excellent interpersonal skills by forming and managing relationships with stakeholders, which led to a stakeholder submitting an article after missing several deadlines.
+- Trained new employees by leading weekly workshops where I would share my business knowledge and answer questions.
+- Comprehended and edited complex technical text to clearly and concisely reflect the author’s intended meaning.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**TOPRA** (November 2021 to April 2022)  
+_In-house editor_
 
-- Any experience relevent to software development
+- Responsible for the entire production of  the monthly journal the Regulatory Rapporteur and managed the content    writer who oversaw newsletters.
+- Implemented an entirely new content management system and content tracking system, which was praised by the     editorial board for its ease of use.
+- Managed relationships with the editorial board, including chairing a monthly editorial board meeting.
+
+**AXELOS** (April 2019 to November 2021)  
+_Project editor_
+- Project managed on average 20 pieces of content simultaneously, including two 30 000 word books.
+- Edited and wrote technical content, which involved learning and applying new knowledge.
+- In charge of the new ideas meeting, where employees shared customer feedback, followed by a discussion on how to best translate those ideas into content.
+**LexisNexis** (March 2016 to December 2018)
+_Editor (various positions)_
+**i-docserve** (August 2013 to August 2014)
+_Operations assistant during placement year_
 
 ## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+Developed during my years as an editor where communication skills were paramount. Ability to understand and communicate complex technical information, with the result that I was able to edit two 30 000 word books and write articles on IT service management and project management. This translated into an ability to write clear documentation for the final project at Makers. Also demonstrated team working skills when I ran editorial meetings with editorial board to discuss and plan upcoming issues of a monthly trade magazine.
 
-#### Another skill
+#### Problem solving
+Needed to ensure that content met user needs. Consequently, started and chaired the new ideas meeting, whereby colleagues shared user feedback, which was then translated into actionable ideas. Researched the market using available resources to understand user needs. This included attending conferences, researching competitors’ content and speaking with external stakeholders and developed products to meet those needs.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Determination
+Decided to learn software development by starting with CS50’s introduction to computer science in August 2022. Prior experience focused on content management systems, designing content with Adobe InDesign and the non-technical aspects of developing a website, including adding landing pages and content. Despite the steep learning curve, I consistently developed skills using online resources and books, such as Code by Charles Petzold. As a result, I was able to complete Makers Academy.
 
-#### Another skill
-
+#### Delivery
+At Axelos simultaneously managed several products and published at least four pieces of content a month exceeding targets. Effectively implemented version control during each projects development phase to avoid delays and ensure that the correct version of the final product was delivered. During Makers I was able to use a Kanban board to chart the teams progress and GitHub to ensure that the correct version of the program was in the main branch.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (February to June 2023)
+- A strong focus on test-driven development, which was further honed during one-to-one code reviews.
+- A focus on pair programming, which I was able to do at least three times a week.
+- Developed knowledge of object-oriented programming languages, focusing on Ruby and JavaScript.
+- Worked on full stack projects utilising model-view-controller patterns and databases including SQL (PostgreSQL) and NoSQL database (MongoDB).
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile, Kanban board
+- Ruby, JavaScript, HTML, CSS
+- RSpec, Jest, Cypress
 
-#### Your University / College (start_date to end_date)
+#### University of Surrey (2011 to 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Law
+- Part of the debating society and craft society
 
-#### Any other qualifications
+#### Certificates
 
-That in some arguable way make you a better software developer or well-rounded person
+- PRINCE2 Foundation 
+- PRINCE2 Agile 
+- ITIL 4 Foundation
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- A keen gym goer
+- Craft lover: knitting, crochet and cross stitch
+- Art lover: a keen painter and drawer who has also attended art exhibitions, a favourite being Kimono: Kyoto to catwalk at the V and A
