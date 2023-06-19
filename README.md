@@ -14,36 +14,34 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 
 ## Work Experience
 
-**PeopleCert (formerly AXELOS)** (June 2022 to December 2022 )  
-_Project editor_
+**Project editor** _PeopleCert (formerly AXELOS)_ (June 2022 to December 2022 )
 
 - Demonstrated excellent interpersonal skills by forming and managing relationships with stakeholders, which led to a stakeholder submitting an article after missing several deadlines.
 - Trained new employees by leading weekly workshops where I would share my business knowledge and answer questions.
-- Comprehended and edited complex technical text to clearly and concisely reflect the author’s intended meaning.
+- Analysed and edited complex technical text to clearly and concisely reflect the author’s intended meaning.
 
-**TOPRA** (November 2021 to April 2022)  
-_In-house editor_
+**In-house editor** _TOPRA_ (November 2021 to April 2022)
 
-- Responsible for the entire production of  the monthly journal the Regulatory Rapporteur and managed the content    writer who oversaw newsletters.
-- Implemented an entirely new content management system and content tracking system, which was praised by the     editorial board for its ease of use.
+- Responsible for the entire production of  the monthly journal the Regulatory Rapporteur and managed the content writer who oversaw newsletters.
+- Implemented an entirely new content management system and content tracking system, which was praised by the editorial board for its ease of use.
 - Managed relationships with the editorial board, including chairing a monthly editorial board meeting.
 
-**AXELOS** (April 2019 to November 2021)  
-_Project editor_
+**Project editor** _AXELOS_ (April 2019 to November 2021)  
+
 - Project managed on average 20 pieces of content simultaneously, including two 30 000 word books.
 - Edited and wrote technical content, which involved learning and applying new knowledge.
-- In charge of the new ideas meeting, where employees shared customer feedback, followed by a discussion on how to best translate those ideas into content.
-**LexisNexis** (March 2016 to December 2018)
-_Editor (various positions)_
-**i-docserve** (August 2013 to August 2014)
-_Operations assistant during placement year_
+- Chaired the new ideas meeting where employees shared customer feedback, which were then translated into content to improve the user experience.
+
+**Editor (various positions)** _LexisNexis_ (March 2016 to December 2018)
+
+**Operations assistant during placement year** _i-docserve_ (August 2013 to August 2014)
 
 ## Skills
 #### Communication
 Developed during my years as an editor where communication skills were paramount. Ability to understand and communicate complex technical information, with the result that I was able to edit two 30 000 word books and write articles on IT service management and project management. This translated into an ability to write clear documentation for the final project at Makers. Also demonstrated team working skills when I ran editorial meetings with editorial board to discuss and plan upcoming issues of a monthly trade magazine.
 
-#### Problem solving
-Needed to ensure that content met user needs. Consequently, started and chaired the new ideas meeting, whereby colleagues shared user feedback, which was then translated into actionable ideas. Researched the market using available resources to understand user needs. This included attending conferences, researching competitors’ content and speaking with external stakeholders and developed products to meet those needs.
+#### Problem-solving
+Needed to ensure that content met user needs at AXELOS. Consequently, started and chaired the new ideas meeting, whereby colleagues shared user feedback, which was then translated into actionable ideas. Researched the market using available resources to understand user needs. This included attending conferences, researching competitors’ content and speaking with external stakeholders and developed products to meet those needs. These skills were useful when planning projects at Makers, where each project had to meet the users' requirements.
 
 #### Determination
 Decided to learn software development by starting with CS50’s introduction to computer science in August 2022. Prior experience focused on content management systems, designing content with Adobe InDesign and the non-technical aspects of developing a website, including adding landing pages and content. Despite the steep learning curve, I consistently developed skills using online resources and books, such as Code by Charles Petzold. As a result, I was able to complete Makers Academy.
@@ -53,7 +51,7 @@ At Axelos simultaneously managed several products and published at least four pi
 
 ## Education
 
-#### Makers Academy (February to June 2023)
+#### Software development bootcamp, Makers Academy (February to June 2023)
 - A strong focus on test-driven development, which was further honed during one-to-one code reviews.
 - A focus on pair programming, which I was able to do at least three times a week.
 - Developed knowledge of object-oriented programming languages, focusing on Ruby and JavaScript.
@@ -62,17 +60,17 @@ At Axelos simultaneously managed several products and published at least four pi
 - Agile, Kanban board
 - Ruby, JavaScript, HTML, CSS
 - RSpec, Jest, Cypress
+- Completed an emotional intelligence (EI) curriculum, with specific training on feedback, empathy and teamwork within a technical environment.
 
-#### University of Surrey (2011 to 2015)
+#### University of Surrey, Law degree (September 2011 to June 2015)
 
-- Law
 - Part of the debating society and craft society
 
 #### Certificates
 
-- PRINCE2 Foundation 
-- PRINCE2 Agile 
-- ITIL 4 Foundation
+- PRINCE2 Foundation (November 2019)
+- PRINCE2 Agile (November 2020)
+- ITIL 4 Foundation (April 2019)
 
 ## Hobbies
 
