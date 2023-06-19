@@ -14,27 +14,27 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 
 ## Work Experience
 
-**Project editor** _PeopleCert (formerly AXELOS)_ (June 2022 to December 2022 )
+**Project editor** PeopleCert (formerly AXELOS) (June 2022 to December 2022 )
 
 - Demonstrated excellent interpersonal skills by forming and managing relationships with stakeholders, which led to a stakeholder submitting an article after missing several deadlines.
 - Trained new employees by leading weekly workshops where I would share my business knowledge and answer questions.
 - Analysed and edited complex technical text to clearly and concisely reflect the author’s intended meaning.
 
-**In-house editor** _TOPRA_ (November 2021 to April 2022)
+**In-house editor** TOPRA (November 2021 to April 2022)
 
 - Responsible for the entire production of  the monthly journal the Regulatory Rapporteur and managed the content writer who oversaw newsletters.
 - Implemented an entirely new content management system and content tracking system, which was praised by the editorial board for its ease of use.
 - Managed relationships with the editorial board, including chairing a monthly editorial board meeting.
 
-**Project editor** _AXELOS_ (April 2019 to November 2021)  
+**Project editor** AXELOS (April 2019 to November 2021)  
 
 - Project managed on average 20 pieces of content simultaneously, including two 30 000 word books.
 - Edited and wrote technical content, which involved learning and applying new knowledge.
 - Chaired the new ideas meeting where employees shared customer feedback, which were then translated into content to improve the user experience.
 
-**Editor (various positions)** _LexisNexis_ (March 2016 to December 2018)
+**Editor (various positions)** LexisNexis (March 2016 to December 2018)
 
-**Operations assistant during placement year** _i-docserve_ (August 2013 to August 2014)
+**Operations assistant during placement year** i-docserve (August 2013 to August 2014)
 
 ## Skills
 #### Communication
