@@ -69,7 +69,7 @@ At Axelos simultaneously managed several products and published at least four pi
 - Part of the debating society and craft society
 
 #### Certificates
-- [CS50 introduction to cmputer science](https://certificates.cs50.io/bcf5ba3e-67a6-4eef-9af1-b0425566ad9b.pdf?size=letter)
+- [CS50 introduction to computer science](https://certificates.cs50.io/bcf5ba3e-67a6-4eef-9af1-b0425566ad9b.pdf?size=letter) (July 2023)
 - PRINCE2 Foundation (November 2019)
 - PRINCE2 Agile (November 2020)
 - ITIL 4 Foundation (April 2019)
