@@ -11,6 +11,8 @@ I have experience working with the programming languages Ruby, JavaScript, Pytho
 | [**Foodshare**](  https://github.com/maddc0de/foodshare)| A food waste app that connects food banks to food outlets with surplus food,developed using an Agile methodology with short sprints which were planned in a  Kanban board. | MERN stack (MongoDB, Express, React, Node), Jest, Cypress|
 | [**Acebook**](https://github.com/bookloverbabe/acebook-mern-fire_team) | Created a social media site based on Facebook in an Agile way, by pair programming to communicate with each other directly| MERN stack( MongoDB, Express, React, Node), Jest, Cypress|
 | [**Bank tech test challenge**](https://github.com/bookloverbabe/Bank-test-tech-challenge) | An application that shows a person's bank balance, including deposits, withdrawals, date, and overall balance.| Ruby, RSpec|
+|[**Words to images**](https://github.com/bookloverbabe/words_to_images_CS50_project) | A full stack application where the user inputs a word or phrase and the program returns an image based on the total sum of values assigned to each letter in the user's input. | Python, Flask, Unittest, HTML, CSS|
+
 
 ## Work Experience
 
@@ -67,7 +69,7 @@ At Axelos simultaneously managed several products and published at least four pi
 - Part of the debating society and craft society
 
 #### Certificates
-
+- [CS50 introduction to cmputer science](https://certificates.cs50.io/bcf5ba3e-67a6-4eef-9af1-b0425566ad9b.pdf?size=letter)
 - PRINCE2 Foundation (November 2019)
 - PRINCE2 Agile (November 2020)
 - ITIL 4 Foundation (April 2019)
